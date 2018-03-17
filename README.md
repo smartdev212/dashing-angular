@@ -18,7 +18,7 @@ A reactive stock manager app built with [Angular](https://angular.io/) and [@ngr
 ## Getting started
 Run the following:
 ```bash
-git clone https://github.com/onehungrymind/dashing-angular.git
+git clone https://github.com/smartdev212/dashing-angular.git
 cd dashing-angular
 npm i
 npm start
